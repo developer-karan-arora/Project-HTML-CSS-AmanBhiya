@@ -1,16 +1,12 @@
-## Project-HTML-Resume-GoogleDocsEmbed   
+## Project-HTML-CSS-AmanBhiya   
     
-    A really simple process    
+    A really simple Project    
     
-    I have just deployed my simple resume over github     
-    Just using an iframe tag and posting a softcopy of that resume over google docs   
+    I have just deployed a sigle page website dedicated for aman bhiya      
+    I have used pure html and css and added media querry to make the page resopnsive   
     
 
-You can access it using this url :-   https://devloper-krn.github.io/Project-HTML-Resume-GoogleDocsEmbed/ 
+You can access it using this url :-   https://devloper-krn.github.io/Project-HTML-CSS-AmanBhiya/  
    
   <br>
 
-```
-    LIMITATION   
-    It reflects change after 5 min
-```
